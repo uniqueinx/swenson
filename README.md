@@ -23,5 +23,3 @@ pytest
 as 8000 is the port server is running on.
 
 #
- 
-Coded in 150 mins
